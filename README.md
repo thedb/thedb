@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @thedb
 - 👀 I'm a front-end developer. 
-- 🌱 I’m a contributor of Nuxt.js.
 - I love javascript.
